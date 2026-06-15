@@ -17,7 +17,7 @@ site_name = "Zensical Sample"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "A sample project to demonstrate the features of Zensical and to serve as a starting point for your own projects."
 
 # The site_author attribute. This is used in the HTML head element.
 #
